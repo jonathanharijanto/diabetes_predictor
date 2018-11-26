@@ -17,3 +17,8 @@ Note: import statement depends on your source root
 - ***test_features***: test feature 2D-array (numpy.ndarray, str and int columns)
 - ***test_labels***: test label array (numpy.ndarray)
 - ***label_dict***: label dictionary (key: str, value: int)
+
+## Sources:
+
+**Random Forest**
+- https://github.com/llSourcell/random_forests
